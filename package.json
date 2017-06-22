@@ -1,0 +1,12 @@
+{
+  "name": "async-await",
+  "version": "0.1.0",
+  "description": "Example of the new js async/await feature",
+  "main": "index.js",
+  "repository": "https://github.com/bntzio/async-await.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "0.16.1"
+  }
+}
